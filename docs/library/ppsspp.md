@@ -343,3 +343,4 @@ Settings with (Restart) means that core has to be closed for the new setting to 
 - [Official PPSSPP Github Repository](https://github.com/hrydgard/ppsspp)
 - [Libretro PPSSPP Core info file](https://github.com/libretro/libretro-super/blob/master/dist/info/ppsspp_libretro.info)
 - [Report Libretro PPSSPP Core Issues Here](https://github.com/libretro/ppsspp/issues)
+- [PPSSPP Settings](https://techshali.com/best-setting-ppsspp/)
